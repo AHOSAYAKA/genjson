@@ -840,7 +840,15 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "机柜1",
+        "id": "rack1"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
