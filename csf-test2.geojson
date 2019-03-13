@@ -730,7 +730,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#555555",
-        "fill-opacity": 0
+        "fill-opacity": 0,
+        "name": "进线间B"
       },
       "geometry": {
         "type": "Polygon",
@@ -767,7 +768,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#555555",
-        "fill-opacity": 0
+        "fill-opacity": 0,
+        "name": "运维办公室"
       },
       "geometry": {
         "type": "Polygon",
